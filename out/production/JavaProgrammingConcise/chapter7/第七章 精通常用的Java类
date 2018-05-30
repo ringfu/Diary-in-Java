@@ -1,0 +1,8 @@
+第七章 常用Java类
+java.lang.Object
+java.lang.String
+java.lang.StringBuffer
+java.lang.System and java.lang.Runtime
+封装类
+时间类： Date， Calender,  DateFormat
+数学类： Math,  NumberFormat and DecimalFormat
